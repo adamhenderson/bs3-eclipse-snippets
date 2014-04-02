@@ -1,7 +1,7 @@
-Bootstrap 3 - Sublime Plugin
+Bootstrap 3 - Eclipse Snippets Generator
 ==================
 
-A sublime plugin complete with Bootstrap 3 snippets
+A simple app to convert the Sublime snippets from https://github.com/JasonMortonNZ/bs3-sublime-plugin to eclipse snippets.
 
 Feel free to let me know what else you want added via:
 
