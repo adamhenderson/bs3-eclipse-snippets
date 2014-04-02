@@ -1,0 +1,13 @@
+
+<snippets>
+	<category filters="*" id="category_1396470350151" initial_state="0" label="Bootstrap 3" largeicon="" smallicon="">
+		<description><![CDATA[A set of snippets of various Bootstrap 3 items]]></description>
+		<!-- <item category="category_1396470350151" id="item_1396470503758" label="Sample">
+			<description><![CDATA[Sample Description]]></description>
+			<content><![CDATA[<div class="sample">${param1}</div>]]></content>
+			<variable default="Default Value" id="name_1" name="param1">
+			<description><![CDATA[param1 Description]]></description>
+			</variable>
+			</item> -->
+	</category>
+</snippets>
